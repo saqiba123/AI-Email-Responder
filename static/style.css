@@ -1,0 +1,97 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4; /* Lightened the background for better contrast */
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #1d1d1d !important;
+    padding: 1rem;
+    color: white;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+    padding: 20px;
+}
+
+.app-wrapper {
+    width: 100%;
+    max-width: 600px;
+}
+
+.card {
+    border-radius: 12px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    background: white; /* Lightened the card background for readability */
+    color: black;
+}
+
+h2, h4 {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+textarea, input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+button {
+    font-size: 1rem;
+    font-weight: bold;
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    border: none;
+    color: white;
+}
+
+.btn-secondary:hover {
+    background-color: #565e64;
+}
+
+.btn-success {
+    background-color: #28a745;
+    border: none;
+    color: white;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    font-size: 0.9rem;
+    background-color: #1d1d1d;
+    color: white;
+}
