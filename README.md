@@ -21,7 +21,7 @@ Before running the project, ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```
-git clone https://github.com/your-repo/auto-email-responder.git
+git clone https://github.com/saqiba123/AI-Email-Responder.git
 cd auto-email-responder
 ```
 ### 2. Create python environment
