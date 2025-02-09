@@ -1,7 +1,7 @@
 # 🌍 AI-Powered Multilingual Email Responder
 ## Respond to Customers in Seconds
 
-AI-Powered Multilingual Email Responder is a FastAPI-based web application that utilizes the OpenAI API to generate automated email responses. The application provides a simple interface for users to input customer emails, generate AI-powered replies, and translate responses into multiple languages. It also integrates with Gmail for quick email replies, making customer communication more efficient and streamlined.
+AI-Powered Multilingual Email Responder is a FastAPI-based web application that utilizes the OpenAI API (model: GPT-3.5-turbo)  to generate automated email responses. The application provides a simple interface for users to input customer emails, generate AI-powered replies, and translate responses into multiple languages. It also integrates with Gmail for quick email replies, making customer communication more efficient and streamlined.
 
 ## Features
 - Generate AI-powered email responses using OpenAI API.
