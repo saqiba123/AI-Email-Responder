@@ -10,6 +10,8 @@ AI-Powered Multilingual Email Responder is a FastAPI-based web application that 
 - Translate responses into multiple languages (English, Hindi, Urdu, Arabic, French, Spanish).
 - One-click integration with Gmail for replying to customers.
 
+https://github.com/user-attachments/assets/c92607b1-0d9b-429a-86e8-b84f01803d5b
+
 ## Prerequisites
 Before running the project, ensure you have the following installed:
 - Python 3.10+
